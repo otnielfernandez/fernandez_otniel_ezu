@@ -2,4 +2,4 @@ from .base import *
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'otnielfernandez.pythonanywhere.com',]
+ALLOWED_HOSTS = ['otnielfernandez.pythonanywhere.com','localhost', '127.0.0.1',]
